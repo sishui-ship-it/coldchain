@@ -1,0 +1,173 @@
+# Copyright (C) 2023 Cold Transport Pro
+# This file is distributed under the same license as the Cold Transport Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cold Transport Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-07 12:00+0000\n"
+"PO-Revision-Date: 2023-12-07 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:12
+msgid "页面未找到 | Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "抱歉，您要查找的页面不存在。 | Sorry, the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:17
+msgid "可能是URL地址输入错误，或者页面已被移动或删除。 | The page may have been moved, deleted, or you may have entered the wrong URL."
+msgstr ""
+
+#: archive.php:15
+msgid "产品中心 | Products Center"
+msgstr ""
+
+#: functions.php:45
+msgid "主菜单 | Primary Menu"
+msgstr ""
+
+#: functions.php:46
+msgid "底部菜单 | Footer Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "移动菜单 | Mobile Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "产品 | Products"
+msgstr ""
+
+#: functions.php:61
+msgid "产品 | Product"
+msgstr ""
+
+#: functions.php:62
+msgid "产品管理 | Product Management"
+msgstr ""
+
+#: functions.php:63
+msgid "添加产品 | Add Product"
+msgstr ""
+
+#: functions.php:64
+msgid "添加新产品 | Add New Product"
+msgstr ""
+
+#: functions.php:65
+msgid "编辑产品 | Edit Product"
+msgstr ""
+
+#: functions.php:66
+msgid "新产品 | New Product"
+msgstr ""
+
+#: functions.php:67
+msgid "查看产品 | View Product"
+msgstr ""
+
+#: functions.php:68
+msgid "搜索产品 | Search Products"
+msgstr ""
+
+#: functions.php:69
+msgid "未找到产品 | No products found"
+msgstr ""
+
+#: functions.php:70
+msgid "回收站中未找到产品 | No products found in Trash"
+msgstr ""
+
+#: functions.php:95
+msgid "产品分类 | Product Categories"
+msgstr ""
+
+#: functions.php:96
+msgid "产品分类 | Product Category"
+msgstr ""
+
+#: functions.php:97
+msgid "搜索分类 | Search Categories"
+msgstr ""
+
+#: functions.php:98
+msgid "所有分类 | All Categories"
+msgstr ""
+
+#: functions.php:99
+msgid "父级分类 | Parent Category"
+msgstr ""
+
+#: functions.php:100
+msgid "父级分类: | Parent Category:"
+msgstr ""
+
+#: functions.php:101
+msgid "编辑分类 | Edit Category"
+msgstr ""
+
+#: functions.php:102
+msgid "更新分类 | Update Category"
+msgstr ""
+
+#: functions.php:103
+msgid "添加新分类 | Add New Category"
+msgstr ""
+
+#: functions.php:104
+msgid "新分类名称 | New Category Name"
+msgstr ""
+
+#: functions.php:105
+msgid "产品分类 | Product Categories"
+msgstr ""
+
+#: header.php:25
+msgid "跳过导航 | Skip to content"
+msgstr ""
+
+#: header.php:50
+msgid "菜单 | Menu"
+msgstr ""
+
+#: search.php:15
+msgid "搜索结果: \"%s\" | Search Results for: \"%s\""
+msgstr ""
+
+#: search.php:24
+msgid "找到 %d 个结果 | Found %d result"
+msgid_plural "找到 %d 个结果 | Found %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single.php:25
+msgid "作者: %s | By: %s"
+msgstr ""
+
+#: single.php:45
+msgid "页面: | Pages:"
+msgstr ""
+
+#: single.php:55
+msgid "标签: | Tags:"
+msgstr ""
+
+#: single.php:65
+msgid "上一篇 | Previous"
+msgstr ""
+
+#: single.php:73
+msgid "下一篇 | Next"
+msgstr ""
+
+#: single.php:82
+msgid "相关文章 | Related Posts"
+msgstr ""
